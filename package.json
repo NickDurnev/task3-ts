@@ -1,0 +1,26 @@
+{
+  "name": "task3-ts",
+  "version": "1.0.0",
+  "description": "TypeScript practice",
+  "main": "index.ts",
+  "scripts": {
+    "start": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickDurnev/task3-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickDurnev/task3-ts/issues"
+  },
+  "homepage": "https://github.com/NickDurnev/task3-ts#readme",
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "@types/prompts": "^2.4.2",
+    "eslint": "^8.18.0",
+    "typescript": "^4.7.4"
+  }
+}
