@@ -1,2 +1,3 @@
 # task3-ts
-TypeScript practice
+
+TypeScript practice with Type Challenges
